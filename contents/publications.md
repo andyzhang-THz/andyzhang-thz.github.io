@@ -34,5 +34,5 @@
 
 [2]	 <strong>Q. L. Zhang </strong>, Q. F. Zhang, and Y. F. Chen, “High-efficiency circularly polarised leaky-wave antenna fed by spoof surface plasmon polaritons”, IET Microwaves, Antennas & Propagation, vol. 12, no. 10, pp. 1639-1644, 2018. [[Paper]](https://doi.org/10.1049/iet-map.2017.1054)
 
-[1]	- <strong>Q. L. Zhang </strong>, Q. F. Zhang, and Y. F. Chen, “Spoof surface plasmon polariton leaky-wave antennas using periodically loaded patches above PEC and AMC ground planes”, IEEE Antennas and Wireless Propagation Letters, vol. 16, pp. 3014-3017, 2017. [[Paper]](https://doi.org/10.1109/LAWP.2017.2758368)
+[1]	<strong>Q. L. Zhang </strong>, Q. F. Zhang, and Y. F. Chen, “Spoof surface plasmon polariton leaky-wave antennas using periodically loaded patches above PEC and AMC ground planes”, IEEE Antennas and Wireless Propagation Letters, vol. 16, pp. 3014-3017, 2017. [[Paper]](https://doi.org/10.1109/LAWP.2017.2758368)
 
