@@ -1,12 +1,11 @@
 
-
-     Qingle Zhang (Andy) is an assistant professor at the School of Electronic and Information Engineering, Shenzhen University. He holds a Ph.D. in Electronic Engineering from City University of Hong Kong, where he also worked as a postdoctoral researcher under Prof. Chi Hou Chan. Prior to academia, he served as a radar system engineer at Infineon Technologies (Hong Kong), focusing on 24 GHz and 60 GHz radar systems.
+Qingle Zhang (Andy) is an assistant professor at the School of Electronic and Information Engineering, Shenzhen University. He holds a Ph.D. in Electronic Engineering from City University of Hong Kong, where he also worked as a postdoctoral researcher under Prof. Chi Hou Chan. Prior to academia, he served as a radar system engineer at Infineon Technologies (Hong Kong), focusing on 24 GHz and 60 GHz radar systems.
     
  Email: qingle.zhang@szu.edu.cn \
  Tel:   0755-86936641\
  Office:  Room 1211, Floor 12, ZhiZhen Building, Canghai Campus\
- ！[Google Scholar] (https://scholar.google.com/citations?hl=zh-CN&pli=1&user=oxNjZQYAAAAJ) \
- ！[Linkedin] (https://www.linkedin.com/in/qingle-zhang-027098126)
+ [Google Scholar] (https://scholar.google.com/citations?hl=zh-CN&pli=1&user=oxNjZQYAAAAJ) \
+ [Linkedin] (https://www.linkedin.com/in/qingle-zhang-027098126)
 
 
 
