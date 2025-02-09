@@ -1,0 +1,3 @@
+  Two Postdoctoral Research Fellow Positions are available in my group for immediate start.
+  A successful candidate must have a Ph.D. in Electrical Engineering with a proven track-record of research. The candidate must have a strong background in antenna or RF component design. Typically, the contract is 2 years, and can be extended. Interested applicants should e-mail Dr. Andy Zhang (qingle.zhang@seu.edu.cn) with a complete professional CV (including educational background, experience, and a list of publications). Review of applications will begin immediately and the position will remain open until filled.
+
