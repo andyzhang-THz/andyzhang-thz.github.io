@@ -1,7 +1,9 @@
-- Shenzhen University Research Start-up Fund, 2024-2026.
 
-- National Natural Science Foundation of China (Young Scientists Fund), 2025-2027.
+
+[4] National Natural Science Foundation of China (Young Scientists Fund), 2025-2027.(PI)
  
-- Natural Science Foundation of Guangdong Province (General Project), 2025-2027.
+[3] Natural Science Foundation of Guangdong Province (General Project), 2025-2027.(PI)
 
-- Pengcheng Peacock Project, 2025-2027.
+[2] Pengcheng Peacock Project, 2025-2027.(PI)
+
+[1] Shenzhen University Research Start-up Fund, 2024-2026. (PI)
