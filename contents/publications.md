@@ -6,13 +6,13 @@
 
 [16] M. Wang,  <strong> Q. L Zhang</strong>, B. J. Chen, G. -B. Wu and C. H. Chan, "A simple method for folded-transmitarray antenna gain improvement in terahertz frequency band," in IEEE Antennas and Wireless Propagation Letters, Early access.[[Paper]](https://doi.org/10.1109/LAWP.2025.3535480) 
 
-[16]	X. G. Shi, Z. H. Xue, Y. Xie, J. W. Jiang, W. Zhang and  <strong> Q. L Zhang*</strong>, “Reconfigurable terahertz stretchable spoof surface plasmon polariton waveguide for filter applications”, Physica Scripta, vol. 99, 085536, 2024. [[Paper]](https://doi.org/10.1088/1402-4896/ad619f)
+[15]	X. G. Shi, Z. H. Xue, Y. Xie, J. W. Jiang, W. Zhang and  <strong> Q. L Zhang*</strong>, “Reconfigurable terahertz stretchable spoof surface plasmon polariton waveguide for filter applications”, Physica Scripta, vol. 99, 085536, 2024. [[Paper]](https://doi.org/10.1088/1402-4896/ad619f)
 
-[15]	X. G. Shi, Z. H. Xue, <strong> Q. L Zhang*</strong>, and L. M. Si, “Miniaturized terahertz stretchable electromagnetically induced transparency based on spoof surface plasmon polaritons”, Optics Communications, vol. 528, 129028, 2023. [[Paper]](https://doi.org/10.1016/j.optcom.2022.129028)
+[14]	X. G. Shi, Z. H. Xue, <strong> Q. L Zhang*</strong>, and L. M. Si, “Miniaturized terahertz stretchable electromagnetically induced transparency based on spoof surface plasmon polaritons”, Optics Communications, vol. 528, 129028, 2023. [[Paper]](https://doi.org/10.1016/j.optcom.2022.129028)
 
-[14]	 <strong>Q. L. Zhang </strong>, X. G. Shi, B. J. Chen, K. F. Chan, K. M. Shum and C. H. Chan, “325 GHz to 500 GHz single-layer planar goubau- line antenna with endfire radiation based on substrate mode”, IEEE Transactions on Antennas and Propagation, vol. 70, no. 9, pp. 7755-7765, Sept. 2022. [[Paper]](https://doi.org/10.1109/TAP.2022.3164180)
+[13]	 <strong>Q. L. Zhang </strong>, X. G. Shi, B. J. Chen, K. F. Chan, K. M. Shum and C. H. Chan, “325 GHz to 500 GHz single-layer planar goubau- line antenna with endfire radiation based on substrate mode”, IEEE Transactions on Antennas and Propagation, vol. 70, no. 9, pp. 7755-7765, Sept. 2022. [[Paper]](https://doi.org/10.1109/TAP.2022.3164180)
 
-[13]	 <strong>Q. L. Zhang </strong>, B. J. Chen, K. M. Shum and C. H. Chan, “Miniaturized spoof surface plasmon polaritons load for planar terahertz circuit application on thick substrate”, IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 3, pp. 1049-1053, March 2022. [[Paper]](https://doi.org/10.1109/TCSII.2021.3121068)
+[12]	 <strong>Q. L. Zhang </strong>, B. J. Chen, K. M. Shum and C. H. Chan, “Miniaturized spoof surface plasmon polaritons load for planar terahertz circuit application on thick substrate”, IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 3, pp. 1049-1053, March 2022. [[Paper]](https://doi.org/10.1109/TCSII.2021.3121068)
 
 [11]	 <strong>Q. L. Zhang </strong>, B. J. Chen, K. F. Chan and C. H. Chan, “Terahertz circularly- and linearly-polarized leaky-wave antennas based on spin–orbit interaction of spoof surface plasmon polaritons”, IEEE Transactions on Antennas and Propagation, vol. 69, no. 8, pp. 4347-4358, Aug. 2021. [[Paper]](https://doi.org/10.1109/TAP.2020.3048531)
 
