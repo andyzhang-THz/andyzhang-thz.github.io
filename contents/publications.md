@@ -4,7 +4,7 @@
 
 
 
-[16] M. Wang,  <strong> Q. L Zhang</strong>, B. J. Chen, G. -B. Wu and C. H. Chan, "A Simple Method for Folded-Transmitarray Antenna Gain Improvement in Terahertz Frequency Band," in IEEE Antennas and Wireless Propagation Letters, Early access.[[Paper]](https://doi.org/10.1109/LAWP.2025.3535480) 
+[16] M. Wang,  <strong> Q. L Zhang</strong>, B. J. Chen, G. -B. Wu and C. H. Chan, "A simple method for folded-transmitarray antenna gain improvement in terahertz frequency band," in IEEE Antennas and Wireless Propagation Letters, Early access.[[Paper]](https://doi.org/10.1109/LAWP.2025.3535480) 
 
 [16]	X. G. Shi, Z. H. Xue, Y. Xie, J. W. Jiang, W. Zhang and  <strong> Q. L Zhang*</strong>, “Reconfigurable terahertz stretchable spoof surface plasmon polariton waveguide for filter applications”, Physica Scripta, vol. 99, 085536, 2024. [[Paper]](https://doi.org/10.1088/1402-4896/ad619f)
 
