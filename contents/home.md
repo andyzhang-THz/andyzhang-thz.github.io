@@ -4,8 +4,8 @@ Qingle Zhang (Andy) is an assistant professor at the School of Electronic and In
  Email: qingle.zhang@szu.edu.cn \
  Tel:   0755-86936641\
  Office:  Room 1211, Floor 12, ZhiZhen Building, Canghai Campus\
- [Google Scholar] (https://scholar.google.com/citations?hl=zh-CN&pli=1&user=oxNjZQYAAAAJ) \
- [Linkedin] (https://www.linkedin.com/in/qingle-zhang-027098126)
+ [[Google Scholar]] (https://scholar.google.com/citations?hl=zh-CN&pli=1&user=oxNjZQYAAAAJ) \
+ [[Linkedin]] (https://www.linkedin.com/in/qingle-zhang-027098126)
 
 
 
