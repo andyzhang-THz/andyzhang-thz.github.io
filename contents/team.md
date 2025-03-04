@@ -3,12 +3,6 @@ Yu ZHang (Master, 2024-): mmW Phased array \
 
 Zhi Xuan Liang (Master, 2024-): THz Metasurface \
 
-Qiu Yi Deng (Master, 2024-): THz antenna and circuit \
+Qiu Yi Deng (Master, 2024-): THz antenna and circuit 
 
-[4] National Natural Science Foundation of China (Young Scientists Fund), 2025-2027.(PI)
 
-[3] Natural Science Foundation of Guangdong Province (General Project), 2025-2027.(PI)
-
-[2] Pengcheng Peacock Project, 2025-2027.(PI)
-
-[1] Shenzhen University Research Start-up Fund, 2024-2026. (PI)
