@@ -1,7 +1,7 @@
 (鼓励学生出去实习或交流)
 
 
-Zi Shuo Liu (Phd, co-supervisor,2025)
+Zi Shuo Liu (Phd, co-supervisor,2026)
 
 Jia Hai Liu (Master, 2025)
 
