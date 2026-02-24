@@ -1,6 +1,5 @@
 (鼓励学生出去实习或交流)
 
-Muhammad Asif (Postdoc, 2025-2027)
 
 Zi Shuo Liu (Phd, co-supervisor,2025)
 
